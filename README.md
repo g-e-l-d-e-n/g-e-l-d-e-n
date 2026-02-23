@@ -113,17 +113,6 @@ A jobs portal for the **Agricultural and Rural Development Authority** enabling 
 | Supervised Machine Learning (Regression & Classification) | DeepLearning.AI & Stanford University | May 2025 |
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Geldenhuys's GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-e-l-d-e-n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-e-l-d-e-n&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## 🎓 Education
