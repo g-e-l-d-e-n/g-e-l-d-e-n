@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Geldenhuys Chimanga 👋
-### Full-Stack Developer · ICT Technician · Software Engineering Student
+### Full-Stack Developer · ICT Technician · Software Engineer
 
 [![Email](https://img.shields.io/badge/Gmail-chimangageldenhuys%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chimangageldenhuys@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-g--e--l--d--e--n-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/g-e-l-d-e-n)
